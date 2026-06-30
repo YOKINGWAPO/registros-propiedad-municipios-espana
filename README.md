@@ -6,7 +6,7 @@ Hasta donde he podido comprobar, **no existía un único listado público** y li
 
 ---
 
-## ✅ Archivo recomendado (el bueno)
+##  Archivo recomendado (el bueno)
 
 **`Registros de la Propiedad de España (sin duplicados) 2026.xlsx`**
 
@@ -29,7 +29,7 @@ Cada oficina aparece **una sola vez**. Es la versión que debes usar.
 
 ---
 
-## 📂 Otro archivo incluido (vista por municipio)
+##  Otro archivo incluido (vista por municipio)
 
 **`Registros de la Propiedad por Municipio (España) 2026.xlsx`**
 
@@ -37,7 +37,7 @@ Listado complementario con **una fila por cada municipio de España** (10.536), 
 
 ---
 
-## 📊 Cobertura
+##  Cobertura
 
 - **1.061** oficinas de Registro de la Propiedad distintas (catálogo sin duplicados).
 - La gran mayoría incluyen **dirección** y **enlace** a su ficha oficial.
@@ -45,7 +45,7 @@ Listado complementario con **una fila por cada municipio de España** (10.536), 
 
 ---
 
-## 🗂️ Fuentes y método
+##  Fuentes y método
 
 - **Oficinas, direcciones y enlaces:** directorio público de **registradores.org** (Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España).
 - **Asignación municipio → registro y nombres geográficos:** **códigos y nomenclatura del INE** (provincias y municipios).
@@ -54,7 +54,7 @@ Listado complementario con **una fila por cada municipio de España** (10.536), 
 
 ---
 
-## 🚀 Uso
+##  Uso
 
 - Abre el `.xlsx` con Excel, LibreOffice Calc o Google Sheets.
 - La columna **Enlace** es clicable y lleva a la ficha oficial de cada registro.
@@ -62,7 +62,7 @@ Listado complementario con **una fila por cada municipio de España** (10.536), 
 
 ---
 
-## ⚠️ Aviso legal y descargo de responsabilidad
+##  Aviso legal y descargo de responsabilidad
 
 - Este es un proyecto **no oficial** y **sin ánimo de lucro**. **No** está afiliado, avalado ni asociado con el Colegio de Registradores, el INE ni ningún organismo público.
 - Los datos se han recopilado de **fuentes públicas** y se ofrecen **«tal cual» (as is), sin garantía** de exactitud, integridad ni vigencia.
@@ -72,7 +72,7 @@ Listado complementario con **una fila por cada municipio de España** (10.536), 
 
 ---
 
-## 🤝 Contribuir
+##  Contribuir
 
 ¿Has detectado un registro mal asignado, una dirección incorrecta o un cambio reciente? Abre una **issue** o envía un **pull request** indicando registro, provincia/municipio y la corrección.
 
